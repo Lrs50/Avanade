@@ -1,0 +1,16 @@
+S:\Documents\Avanade\C#\exemplo1\obj\Debug\net5.0\exemplo1.csprojAssemblyReference.cache
+S:\Documents\Avanade\C#\exemplo1\obj\Debug\net5.0\exemplo1.GeneratedMSBuildEditorConfig.editorconfig
+S:\Documents\Avanade\C#\exemplo1\obj\Debug\net5.0\exemplo1.AssemblyInfoInputs.cache
+S:\Documents\Avanade\C#\exemplo1\obj\Debug\net5.0\exemplo1.AssemblyInfo.cs
+S:\Documents\Avanade\C#\exemplo1\obj\Debug\net5.0\exemplo1.csproj.CoreCompileInputs.cache
+S:\Documents\Avanade\C#\exemplo1\bin\Debug\net5.0\exemplo1.exe
+S:\Documents\Avanade\C#\exemplo1\bin\Debug\net5.0\exemplo1.deps.json
+S:\Documents\Avanade\C#\exemplo1\bin\Debug\net5.0\exemplo1.runtimeconfig.json
+S:\Documents\Avanade\C#\exemplo1\bin\Debug\net5.0\exemplo1.runtimeconfig.dev.json
+S:\Documents\Avanade\C#\exemplo1\bin\Debug\net5.0\exemplo1.dll
+S:\Documents\Avanade\C#\exemplo1\bin\Debug\net5.0\ref\exemplo1.dll
+S:\Documents\Avanade\C#\exemplo1\bin\Debug\net5.0\exemplo1.pdb
+S:\Documents\Avanade\C#\exemplo1\obj\Debug\net5.0\exemplo1.dll
+S:\Documents\Avanade\C#\exemplo1\obj\Debug\net5.0\ref\exemplo1.dll
+S:\Documents\Avanade\C#\exemplo1\obj\Debug\net5.0\exemplo1.pdb
+S:\Documents\Avanade\C#\exemplo1\obj\Debug\net5.0\exemplo1.genruntimeconfig.cache

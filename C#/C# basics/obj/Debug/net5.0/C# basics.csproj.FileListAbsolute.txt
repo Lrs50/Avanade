@@ -1,0 +1,16 @@
+S:\Documents\Avanade\C#\C# basics\bin\Debug\net5.0\C# basics.exe
+S:\Documents\Avanade\C#\C# basics\bin\Debug\net5.0\C# basics.deps.json
+S:\Documents\Avanade\C#\C# basics\bin\Debug\net5.0\C# basics.runtimeconfig.json
+S:\Documents\Avanade\C#\C# basics\bin\Debug\net5.0\C# basics.runtimeconfig.dev.json
+S:\Documents\Avanade\C#\C# basics\bin\Debug\net5.0\C# basics.dll
+S:\Documents\Avanade\C#\C# basics\bin\Debug\net5.0\ref\C# basics.dll
+S:\Documents\Avanade\C#\C# basics\bin\Debug\net5.0\C# basics.pdb
+S:\Documents\Avanade\C#\C# basics\obj\Debug\net5.0\C# basics.csprojAssemblyReference.cache
+S:\Documents\Avanade\C#\C# basics\obj\Debug\net5.0\C# basics.GeneratedMSBuildEditorConfig.editorconfig
+S:\Documents\Avanade\C#\C# basics\obj\Debug\net5.0\C# basics.AssemblyInfoInputs.cache
+S:\Documents\Avanade\C#\C# basics\obj\Debug\net5.0\C# basics.AssemblyInfo.cs
+S:\Documents\Avanade\C#\C# basics\obj\Debug\net5.0\C# basics.csproj.CoreCompileInputs.cache
+S:\Documents\Avanade\C#\C# basics\obj\Debug\net5.0\C# basics.dll
+S:\Documents\Avanade\C#\C# basics\obj\Debug\net5.0\ref\C# basics.dll
+S:\Documents\Avanade\C#\C# basics\obj\Debug\net5.0\C# basics.pdb
+S:\Documents\Avanade\C#\C# basics\obj\Debug\net5.0\C# basics.genruntimeconfig.cache
