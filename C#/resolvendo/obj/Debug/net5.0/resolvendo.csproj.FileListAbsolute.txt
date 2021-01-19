@@ -1,0 +1,16 @@
+S:\Documents\Avanade\c#\resolvendo\bin\Debug\net5.0\resolvendo.exe
+S:\Documents\Avanade\c#\resolvendo\bin\Debug\net5.0\resolvendo.deps.json
+S:\Documents\Avanade\c#\resolvendo\bin\Debug\net5.0\resolvendo.runtimeconfig.json
+S:\Documents\Avanade\c#\resolvendo\bin\Debug\net5.0\resolvendo.runtimeconfig.dev.json
+S:\Documents\Avanade\c#\resolvendo\bin\Debug\net5.0\resolvendo.dll
+S:\Documents\Avanade\c#\resolvendo\bin\Debug\net5.0\ref\resolvendo.dll
+S:\Documents\Avanade\c#\resolvendo\bin\Debug\net5.0\resolvendo.pdb
+S:\Documents\Avanade\c#\resolvendo\obj\Debug\net5.0\resolvendo.csprojAssemblyReference.cache
+S:\Documents\Avanade\c#\resolvendo\obj\Debug\net5.0\resolvendo.GeneratedMSBuildEditorConfig.editorconfig
+S:\Documents\Avanade\c#\resolvendo\obj\Debug\net5.0\resolvendo.AssemblyInfoInputs.cache
+S:\Documents\Avanade\c#\resolvendo\obj\Debug\net5.0\resolvendo.AssemblyInfo.cs
+S:\Documents\Avanade\c#\resolvendo\obj\Debug\net5.0\resolvendo.csproj.CoreCompileInputs.cache
+S:\Documents\Avanade\c#\resolvendo\obj\Debug\net5.0\resolvendo.dll
+S:\Documents\Avanade\c#\resolvendo\obj\Debug\net5.0\ref\resolvendo.dll
+S:\Documents\Avanade\c#\resolvendo\obj\Debug\net5.0\resolvendo.pdb
+S:\Documents\Avanade\c#\resolvendo\obj\Debug\net5.0\resolvendo.genruntimeconfig.cache
